@@ -24,6 +24,10 @@ hr{
   height: 100px;
 }
 
+.animate__animated.animate__fadeIn {
+  --animate-duration: 2.5s;
+}
+
 .btn{
   font-weight: 700;
   border-radius:300px;
